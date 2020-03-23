@@ -15,6 +15,6 @@ Add `"usnwc-aspace"` to the array in `AppConfig[:plugins]` in your `config/confi
 
 Changes to the PUI's color scheme can be made by editing `public/assets/stylesheets/usnwc_lib.css`
 
-Welcome text can be edited by changing locale values in `public/locales/en.yml'
+Welcome text can be edited by changing locale values in `public/locales/en.yml`
 
 Footer text can be edited by changing text in `public/views/shared/footer.html.erb`
