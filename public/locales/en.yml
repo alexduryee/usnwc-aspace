@@ -1,0 +1,10 @@
+en:
+        brand:
+                title: Naval Historical Collection Archives
+                welcome_head: Naval Historical Collection Archives
+                welcome_message: <p>NHC is the U.S. Naval War College's institutional archives and the repository for manuscripts, oral histories, special collections, and rare books relating to the history of the College, naval warfare, and the navies in Narrangansett Bay.</p><p>Discover materials in NHC's collections by searching finding aids with keywords, names, or subjects.</p><p>Digital versions of documents or images may be available for download, but in most instances you must make an appointment to view these non-circulating collections in the NHC's Reading Room.</p><p>For more information on how to use this site, please visit our <a href="https://usnwc.libguides.com/nhc/faq">FAQ</a>.</p>
+                welcome_contact_head: Contact
+                welcome_contact_message: <p>For more information about visiting NHC, please visit our <a href="https://usnwc.libguides.com/nhc/faq">FAQ</a>.</p><p>To make an appointment in the NHC Reading Room, email us at <a href="mailto:nhc@usnwc.edu">nhc@usnwc.edu</a>.</p>
+
+        search_sorting:
+                digital_object_id: Identifier
