@@ -2,10 +2,12 @@
 
 .panel-footer {
 	background: darkblue;			// background color of the footer
+}
+.panel-footer li {
 	color: white;				// font color of the footer
 }
 .panel-footer a {
-	color: gold;				// hyperlink color of the footer
+	color: white;				// hyperlink color of the footer
 }
 
 .top-bar {
@@ -13,6 +15,6 @@
 	color: white;				// font color of the navbar
 }
 .navbar-nav a {
-	color: gold !important;			// hyperlink color of the navbar
+	color: white !important;		// hyperlink color of the navbar
 }
 
