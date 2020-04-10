@@ -11,6 +11,10 @@ Created by @alexduryee for US Naval Historical Collection Archives.
 
 Add `"usnwc-aspace"` to the array in `AppConfig[:plugins]` in your `config/config.rb`
 
+To use the custom header image, add the following line to `config/config.rb`:
+`AppConfig[:pui_branding_img] = '/assets/images/Hattendorf_Historical_Center_Dept_Wordmark_Horz_FullColorB.png'`
+
+
 ## Customizing the Plugin
 
 Changes to the PUI's color scheme can be made by editing `public/assets/stylesheets/usnwc_lib.css`
