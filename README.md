@@ -1,6 +1,7 @@
 # U.S. Naval War College ASpace PUI
 
 Created by @alexduryee for US Naval Historical Collection Archives.
+Compatible with ArchivesSpace 2.7.1
 
 ## New Features
 
